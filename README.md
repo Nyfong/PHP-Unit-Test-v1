@@ -12,7 +12,7 @@ This project is a simple PHP calculator that:
 ## 📁 Folder Structure
 
 ```
-php-integration-app/
+php-app/
 ├── composer.json
 ├── phpunit.xml
 ├── src/
