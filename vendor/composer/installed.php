@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'nyfong/php-app',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'b027293ed4052f5d71e425785efb46736c4cfb84',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -29,9 +29,9 @@
             'dev_requirement' => true,
         ),
         'nyfong/php-app' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'b027293ed4052f5d71e425785efb46736c4cfb84',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
