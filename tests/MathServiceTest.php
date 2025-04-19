@@ -9,6 +9,6 @@ class MathServiceTest extends TestCase
     {
         $service = new MathService();
         $result = $service->addAndDouble(2, 3);
-        $this->assertEquals(10, $result); // (2+3) * 2 = 10
+        $this->assertEquals(100, $result); // (2+3) * 2 = 10
     }
 }

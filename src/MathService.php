@@ -13,7 +13,7 @@ class MathService
 
     public function addAndDouble($a, $b)
     {
-        $sum = $this->calculator->add($a, $b);
-        return $sum * 2;
+        $sum = $this->calculator->add($a, $b);  // unit logic
+        return $sum * 2; //extra logic
     }
 }
